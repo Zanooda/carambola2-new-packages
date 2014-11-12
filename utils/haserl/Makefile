@@ -8,12 +8,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=haserl
-PKG_VERSION:=0.9.33
+PKG_VERSION:=0.9.32
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=@SF/haserl
-PKG_MD5SUM:=a9decddb508944d56f71dd2f821e2ec5
+PKG_MD5SUM:=18e2208aea6d772d1670c1a648bb6b77
 PKG_MAINTAINER:=Maxim Storchak <m.storchak@gmail.com>
 PKG_LICENSE:=GPL-2.0
 
